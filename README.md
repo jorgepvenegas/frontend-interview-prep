@@ -12,6 +12,7 @@
 * Vanilla JS
 * Prototypal inheritance
 * Closures
+* Event loop
 * Function composition and HOC (high order components)
 ### HTML
 * HTML Parsing
