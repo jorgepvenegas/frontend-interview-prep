@@ -1,32 +1,37 @@
-### Frontend Specifics
+## Frontend Specifics
+* Critical rendering path
 * Web performance
 * Web components
-* Painting and rendering
-* Building DOM and CSSDOM
-* Web accessibility
 * Service workers
+### CSS
 * CSS Grid
 * Flexbox
+* Box model
 * CSS Transitions
-* HTML Parsing
+### JavaScript
 * Vanilla JS
 * Prototypal inheritance
 * Closures
-* Box model
+* Function composition and HOC (high order components)
+### HTML
+* HTML Parsing
+* Painting and rendering
+* Building DOM and CSSDOM
+* Web accessibility
 
-### Algorithms
+## Algorithms
 * Sorting: bubble sort, insertion sort, selection sort, merge sort, heap sort.
 * Binary search
 * Trees
 * Breadth-first search, Depth-first search
 
-### Data Structures
+## Data Structures
 * Stacks
 * Queues
 * Hash tables
 * Linked Lists
 
-### Concepts
+## Concepts
 * Big O
 * Recursion
 * Dynamic programming
@@ -34,7 +39,7 @@
 * Oriented Object Programming
 * Testing
 
-### Other
+## Stuff you should be ready for
 * System design
 * Load balancers
 * Cache strategies
